@@ -1,0 +1,23 @@
+{
+  "name": "error-logs-in-localstorage",
+  "version": "1.0",
+  "description": "Module bundler",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awibox/bem-builder.git"
+  },
+  "keywords": [
+    "bem",
+    "webpack"
+  ],
+  "author": "Arkhipov Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awibox/bem-builder/issues"
+  },
+  "homepage": "https://github.com/awibox/bem-builder#readme"
+}
